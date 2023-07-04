@@ -1,0 +1,11 @@
+C:\Users\Yusuf\source\repos\AkvaryumDemo\WinFormsControlLibrary2\bin\Debug\netcoreapp3.1\WinFormsControlLibrary2.deps.json
+C:\Users\Yusuf\source\repos\AkvaryumDemo\WinFormsControlLibrary2\bin\Debug\netcoreapp3.1\WinFormsControlLibrary2.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\WinFormsControlLibrary2\bin\Debug\netcoreapp3.1\WinFormsControlLibrary2.pdb
+C:\Users\Yusuf\source\repos\AkvaryumDemo\WinFormsControlLibrary2\obj\Debug\netcoreapp3.1\WinFormsControlLibrary2.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\AkvaryumDemo\WinFormsControlLibrary2\obj\Debug\netcoreapp3.1\WinFormsControlLibrary2.UserControl1.resources
+C:\Users\Yusuf\source\repos\AkvaryumDemo\WinFormsControlLibrary2\obj\Debug\netcoreapp3.1\WinFormsControlLibrary2.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\AkvaryumDemo\WinFormsControlLibrary2\obj\Debug\netcoreapp3.1\WinFormsControlLibrary2.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\AkvaryumDemo\WinFormsControlLibrary2\obj\Debug\netcoreapp3.1\WinFormsControlLibrary2.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\AkvaryumDemo\WinFormsControlLibrary2\obj\Debug\netcoreapp3.1\WinFormsControlLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\AkvaryumDemo\WinFormsControlLibrary2\obj\Debug\netcoreapp3.1\WinFormsControlLibrary2.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\WinFormsControlLibrary2\obj\Debug\netcoreapp3.1\WinFormsControlLibrary2.pdb

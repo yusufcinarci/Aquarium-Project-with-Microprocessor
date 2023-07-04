@@ -1,0 +1,51 @@
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\AkvaryumDemo.exe
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\AkvaryumDemo.deps.json
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\AkvaryumDemo.runtimeconfig.json
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\AkvaryumDemo.runtimeconfig.dev.json
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\AkvaryumDemo.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\AkvaryumDemo.pdb
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.Form1.resources
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.pdb
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.genruntimeconfig.cache
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\System.IO.Ports.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Yusuf\source\repos\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\Mikroişlemci ÖDEVİ\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.csprojAssemblyReference.cache
+C:\Users\Yusuf\Desktop\Mikroişlemci ÖDEVİ\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.Form1.resources
+C:\Users\Yusuf\Desktop\Mikroişlemci ÖDEVİ\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\Mikroişlemci ÖDEVİ\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\Mikroişlemci ÖDEVİ\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.AssemblyInfoInputs.cache
+C:\Users\Yusuf\Desktop\Mikroişlemci ÖDEVİ\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.AssemblyInfo.cs
+C:\Users\Yusuf\Desktop\Mikroişlemci ÖDEVİ\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\Mikroişlemci ÖDEVİ\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.dll
+C:\Users\Yusuf\Desktop\Mikroişlemci ÖDEVİ\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.pdb
+D:\Yusuf\Plans\Projects\Microprocessor Project\Microprocessor Final Project\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.csproj.AssemblyReference.cache
+D:\Yusuf\Plans\Projects\Microprocessor Project\Microprocessor Final Project\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.Form1.resources
+D:\Yusuf\Plans\Projects\Microprocessor Project\Microprocessor Final Project\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.Properties.Resources.resources
+D:\Yusuf\Plans\Projects\Microprocessor Project\Microprocessor Final Project\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.csproj.GenerateResource.cache
+D:\Yusuf\Plans\Projects\Microprocessor Project\Microprocessor Final Project\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yusuf\Plans\Projects\Microprocessor Project\Microprocessor Final Project\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.AssemblyInfoInputs.cache
+D:\Yusuf\Plans\Projects\Microprocessor Project\Microprocessor Final Project\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.AssemblyInfo.cs
+D:\Yusuf\Plans\Projects\Microprocessor Project\Microprocessor Final Project\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.csproj.CoreCompileInputs.cache
+D:\Yusuf\Plans\Projects\Microprocessor Project\Microprocessor Final Project\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.dll
+D:\Yusuf\Plans\Projects\Microprocessor Project\Microprocessor Final Project\Yazılım Dosyaları\C# Arayüzü\AkvaryumDemo\AkvaryumDemo\obj\Debug\netcoreapp3.1\AkvaryumDemo.pdb
