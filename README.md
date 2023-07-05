@@ -34,3 +34,7 @@ C# üstündeki arayüz ile birlikte pH, ışık kontrolü ve sıcaklık kontrol�
 ### Sonuçlar
 
 Tasarlanan akvaryum kontrolü sistemi ile balıklar için hayati önem taşıyan ihtiyaçlardan biri olan beslenme, gerekli zamanlarda gerekli miktarda tedarik edilebilmiştir. Bu yemleme sistemi her balığa göre değişiklik göstermektedir. Bu kullanıcı tarafından balığının cinsine göre belli saat aralıklarına ayarlanabilecektir. Bunun yanı sıra akvaryumdaki mevcut suyun sıcaklığı sensörler ile tespit edilerek hem otomatik hem manuel olarak istenilen sıcaklığa uygun olarak ayarlanabilmiştir. Ayrıca zamanla buharlaşma sonucu meydana gelen su kaybı su seviyesi sensörü ile telafi edilebilmiştir.Bu sensör belli kademelerde su miktarı seçenekler için kullanılmıştır. Bu seviyeyide kendi balık cinsine göre kullanıcı değiştirebilmektedir. pH sensörü ile de her balığa uygun ph değeri dışardan veya otomatik seçeneği ile ayarlanabilmiştir. LDR sensörü kullanılarak ışık miktarı da kontrol edilmiştir. Sistemimizin arayüzü ile de ph,sıcaklık,ışık miktarı,su seviyesi kontrolü yapılmıştır.  Böylece balıklar için oluşturulan yaşam alanı yaşamsal standartlarına göre düzenlenmiştir. 
+
+Projenin C# arayüzü ve bir takım kısımda değişikler yapmayı düşünüyorum. Onları da tamamladıkça buradaki repo da düzenlemeler yapacağımı söylemekten mutluluk duyuyorum.
+
+Güç sizinle olsun !!!
