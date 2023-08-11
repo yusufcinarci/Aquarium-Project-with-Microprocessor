@@ -29,7 +29,7 @@ C# üstündeki arayüz ile birlikte pH, ışık kontrolü ve sıcaklık kontrol�
 
 ### Sistemin Çalışma Prensibinin Videosu 
 
-[https://drive.google.com/file/d/1AzQj3awzrj29rqtGSsKT1hd2QkeB1qo1/view?usp=sharing](https://drive.google.com/file/d/1TcCQ9HTlAhuZIJ-u0hB-9x-mBtNtEzVH/view?usp=drive_link)
+[<img src="https://r.resimlink.com/cpI2a_mYREKo.jpg" width="50%">](https://drive.google.com/file/d/1TcCQ9HTlAhuZIJ-u0hB-9x-mBtNtEzVH/view?usp=drive_link)
 
 ### Sonuçlar
 
