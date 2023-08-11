@@ -6,24 +6,30 @@ Bu projeyi okulumuzda Microişlemci Projesi dersinde yapmış bulunmaktayım. Ha
 ### Sistemin Çalışma Mantığı ve Kullanılan Malzemeler
 
 Akvaryum kontrolünde kullanılan malzemeler ve haberleşme çeşitlerini, tüm kontrol sistemlerini, kullanılan sensörleri, diyagramları, kullanılan elemanların teknik özellikleri ile ilgili olan bilgiler ayrıntılı olarak bu bölümde verilmektedir. Şekilde sistemin çalışma mantığı blok diyagramla verilmiştir.
-
-![blog diyagram1](https://github.com/yusufcinarci/Aquarium-Project-with-Microprocessor/assets/77057546/5d8490f8-8b8a-400c-926a-d7e0dd73493e)
+<p align="center">
+<img src="https://github.com/yusufcinarci/Aquarium-Project-with-Microprocessor/assets/77057546/5d8490f8-8b8a-400c-926a-d7e0dd73493e" width="50%">
+</p>
 
 Micro c üzerinden kaynak kodları ile sıcaklık, ışık, su seviyesi ve pH değeri kontrolünü PROTEUS simülasyonu üstünden PIC18F45K22 ile LCD ekran yardımıyla kontrol edilmiştir. PROTEUS simülasyonunda ilk başta LCD ekran üzerinde manuel ve otomatik olmak üzere iki seçenek verilmiştir. Manuel seçmemiz durumunda dışarıdan PROTEUS simülasyonundaki KEYPAD aracılığı ile değerler belirlenmiştir. İstediğimiz ışık, sıcaklık veya suyun PH değerlerini ayarlanmıştır. Otomatik seçeneği ile Micro c üstünden ortalama değerleri otomatik olarak ekrana yansıtıp simülasyonu üzerinden gösterilmiştir. Balık yemleme sistemi ile istenen zaman aralıklarında yemleme yapılmıştır. Şekil 2 de gösterilmiştir. 
-
-![blogdiyagram2](https://github.com/yusufcinarci/Aquarium-Project-with-Microprocessor/assets/77057546/990b8516-8bee-4f7d-9486-f04aed2ab151)
+<p align="center">
+<img src="https://github.com/yusufcinarci/Aquarium-Project-with-Microprocessor/assets/77057546/990b8516-8bee-4f7d-9486-f04aed2ab151" width="50%">
+</p>
 
 ### Sistemin Proteus Üzerinden Simülasyonu
 
 Micro c üzerinden kaynak kodları ile sıcaklık, ışık, su seviyesi ve pH değeri kontrolünü PROTEUS simülasyonu üstünden PIC18F45K22 ile LCD ekran yardımıyla kontrol edilmiştir. PROTEUS simülasyonunda ilk başta LCD ekran üzerinde manuel ve otomatik olmak üzere iki seçenek verilmiştir. Manuel seçmemiz durumunda dışarıdan PROTEUS simülasyonundaki KEYPAD aracılığı ile değerleri kendimiz belirledik. İstediğimiz ışık, sıcaklık veya suyun PH değerlerini ayarlanmıştır. Otomatik seçeneği ile Micro c üstünden ortalama değerleri otomatik olarak ekrana yansıtıp simülasyonu üzerinden gösterilmiştir. 
 
-![xxx](https://github.com/yusufcinarci/Aquarium-Project-with-Microprocessor/assets/77057546/0577cc69-c513-4a99-bbce-c7320a9c788f)
+<p align="center">
+<img src="https://github.com/yusufcinarci/Aquarium-Project-with-Microprocessor/assets/77057546/0577cc69-c513-4a99-bbce-c7320a9c788f" width="80%">
+</p>
 
 ### Sistemin C# Üzerinden Gösterilmesi
 
 C# üstündeki arayüz ile birlikte pH, ışık kontrolü ve sıcaklık kontrolü de bu arayüz üstünden PROTEUS simülasyonu yardımı ile kontrol edilebileceği gibi anlık sıcaklık, ışık ve PH değerlerini de anlık olarak C#’ a aktarılmıştır.
 
-![c#](https://github.com/yusufcinarci/Aquarium-Project-with-Microprocessor/assets/77057546/829f465c-c3b9-47e0-8523-815436c30e0c)
+<p align="center">
+<img src="https://github.com/yusufcinarci/Aquarium-Project-with-Microprocessor/assets/77057546/829f465c-c3b9-47e0-8523-815436c30e0c" width="80%">
+</p>
 
 Şekillerde görüldüğü gibi C# arayüzünü çalıştırmaya başladıktan sonra manuel ve otomatik olmak üzere arayüzde de iki seçenek verilmiştir. Bu iki seçenekten herhangi biri girildiğinde şekildeki gibi küçük ekranda değerler alınmıştır. Otomatik seçeneğindeki veriler kendi belirlemiş olduğumuz değerler olarak alınmıştır.Bu değerleri aynı anda proteustaki simülasyonda ki LCD ekrandaki  verileride  çekerek kullanabildiğimiz gösterilmiştir. Hem arayüz üstünden hem de simülayondaki keypad üstünden kullanabildiğimiz bir sistem tasarlanmıştır.
 
